@@ -1,4 +1,4 @@
-# Wordpress-web
+# Wordpress-Web
 <img width="" height="" src="./images/page.jpg"></img>
 신원호 감독과 이우정 작가의 <응답시리즈>, <슬기로운 시리즈> 컨텐츠를 활용해 제작한
 <br>가상의 드라마 제작사, <SHIN&LEE DRAMA> 웹사이트 입니다!
