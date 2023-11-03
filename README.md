@@ -1,7 +1,7 @@
 # Wordpress-Web
 <img width="" height="" src="./images/page.jpg"></img>
 ## 제작 시기(소요 시간): 2022년 10월~11월(2개월)
-## 개발 언어: WordPress/CSS3
+## 개발 툴: WordPress/CSS3
 ## 작업자: 박서연(100%)
 
 ### 신원호 감독과 이우정 작가의 <응답시리즈>, <슬기로운 시리즈> 컨텐츠를 활용해 제작한
